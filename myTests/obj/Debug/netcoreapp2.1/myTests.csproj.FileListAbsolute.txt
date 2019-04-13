@@ -1,0 +1,13 @@
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\bin\Debug\netcoreapp2.1\myTests.deps.json
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\bin\Debug\netcoreapp2.1\myTests.runtimeconfig.json
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\bin\Debug\netcoreapp2.1\myTests.runtimeconfig.dev.json
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\bin\Debug\netcoreapp2.1\myTests.dll
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\bin\Debug\netcoreapp2.1\myTests.pdb
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\obj\Debug\netcoreapp2.1\myTests.csproj.CoreCompileInputs.cache
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\obj\Debug\netcoreapp2.1\myTests.AssemblyInfoInputs.cache
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\obj\Debug\netcoreapp2.1\myTests.AssemblyInfo.cs
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\obj\Debug\netcoreapp2.1\myTests.dll
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\obj\Debug\netcoreapp2.1\myTests.pdb

@@ -1,0 +1,9 @@
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myLib\bin\Debug\netstandard2.0\myLib.deps.json
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myLib\bin\Debug\netstandard2.0\myLib.dll
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myLib\bin\Debug\netstandard2.0\myLib.pdb
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myLib\obj\Debug\netstandard2.0\myLib.csprojAssemblyReference.cache
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myLib\obj\Debug\netstandard2.0\myLib.csproj.CoreCompileInputs.cache
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myLib\obj\Debug\netstandard2.0\myLib.AssemblyInfoInputs.cache
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myLib\obj\Debug\netstandard2.0\myLib.AssemblyInfo.cs
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myLib\obj\Debug\netstandard2.0\myLib.dll
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myLib\obj\Debug\netstandard2.0\myLib.pdb
