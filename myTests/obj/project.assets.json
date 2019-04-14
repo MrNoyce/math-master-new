@@ -1677,6 +1677,16 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "myLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/myLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/myLib.dll": {}
+        }
       }
     }
   },
@@ -5706,12 +5716,18 @@
         "xunit.runner.visualstudio.2.3.1.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "myLib/1.0.0": {
+      "type": "project",
+      "path": "../myLib/myLib.csproj",
+      "msbuildProject": "../myLib/myLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.NET.Test.Sdk >= 15.7.0",
       "Microsoft.NETCore.App >= 2.1.0",
+      "myLib >= 1.0.0",
       "xunit >= 2.3.1",
       "xunit.runner.visualstudio >= 2.3.1"
     ]
@@ -5746,7 +5762,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\MrPanda\\Desktop\\EDX\\WritingProfCode\\local-repo\\math-master-new\\myLib\\myLib.csproj": {
+              "projectPath": "C:\\Users\\MrPanda\\Desktop\\EDX\\WritingProfCode\\local-repo\\math-master-new\\myLib\\myLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

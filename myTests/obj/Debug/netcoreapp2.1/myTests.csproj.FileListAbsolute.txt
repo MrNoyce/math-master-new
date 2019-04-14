@@ -11,3 +11,7 @@ C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\
 C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\obj\Debug\netcoreapp2.1\myTests.AssemblyInfo.cs
 C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\obj\Debug\netcoreapp2.1\myTests.dll
 C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\obj\Debug\netcoreapp2.1\myTests.pdb
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\bin\Debug\netcoreapp2.1\myLib.dll
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\bin\Debug\netcoreapp2.1\myLib.pdb
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\obj\Debug\netcoreapp2.1\myTests.csprojAssemblyReference.cache
+C:\Users\MrPanda\Desktop\EDX\WritingProfCode\local-repo\math-master-new\myTests\obj\Debug\netcoreapp2.1\myTests.csproj.CopyComplete
