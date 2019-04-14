@@ -6,21 +6,30 @@ namespace myTests
 {
     public class MathHelper_MaxShould
     {
+        private readonly MathHelper _mathHelper;
+
+        public MathHelper_MaxShould()
+        {
+            _mathHelper = new MathHelper;
+        }
+
         [Fact]
         public void Return0GivenValuesOf0()
         {
-            var mathHelper =  new MathHelper(); 
+            //var mathHelper =  new MathHelper(); 
 
-            var result = mathHelper.Max(0,0);
+            var result = _mathHelper.Max(0,0);
 
-            if (result == 0)
-            {
-                System.Console.WriteLine("Success");
-            }
-            else
-            {
-                System.Console.WriteLine("Failed");
-            }
+            Assert.Equal(0,result);
+
+            // if (result == 0)
+            // {
+            //     System.Console.WriteLine("Success");
+            // }
+            // else
+            // {
+            //     System.Console.WriteLine("Failed");
+            // }
         }
     }
 }
