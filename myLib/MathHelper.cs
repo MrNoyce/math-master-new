@@ -10,8 +10,7 @@ namespace myLib
             {
                 return 0;
             }
-            
-            throw new NotImplementedException("write some tests");
+            throw new NotImplementedException("Write a test!");
         }
     }
 }
