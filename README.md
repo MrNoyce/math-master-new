@@ -1,1 +1,2 @@
-"# math-master-new" 
+# math-master
+A simple math library.

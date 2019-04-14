@@ -1,6 +1,6 @@
 {
-  "ProjectFilePath": "c:\\Users\\MrPanda\\Desktop\\EDX\\WritingProfCode\\local-repo\\math-master-new\\myLib\\myLib.csproj",
-  "TargetFramework": "netstandard2.0",
+  "ProjectFilePath": "c:\\Users\\MrPanda\\Desktop\\EDX\\WritingProfCode\\local-repo\\math-master-new\\myTests\\myTests.csproj",
+  "TargetFramework": "netcoreapp2.0",
   "TagHelpers": [],
   "Configuration": {
     "ConfigurationName": "UnsupportedRazor",

@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MrPanda\\Desktop\\EDX\\WritingProfCode\\local-repo\\math-master-new\\myLib\\myLib.csproj",
+      "projectUniqueName": "c:\\Users\\MrPanda\\Desktop\\EDX\\WritingProfCode\\local-repo\\math-master-new\\myLib\\myLib.csproj",
       "projectName": "myLib",
-      "projectPath": "C:\\Users\\MrPanda\\Desktop\\EDX\\WritingProfCode\\local-repo\\math-master-new\\myLib\\myLib.csproj",
+      "projectPath": "c:\\Users\\MrPanda\\Desktop\\EDX\\WritingProfCode\\local-repo\\math-master-new\\myLib\\myLib.csproj",
       "packagesPath": "C:\\Users\\MrPanda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MrPanda\\Desktop\\EDX\\WritingProfCode\\local-repo\\math-master-new\\myLib\\obj\\",
+      "outputPath": "c:\\Users\\MrPanda\\Desktop\\EDX\\WritingProfCode\\local-repo\\math-master-new\\myLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
